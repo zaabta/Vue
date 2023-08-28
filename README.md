@@ -1,4 +1,4 @@
-# googlemapapp
+# google-map-app
 
 ## Project setup
 ```
